@@ -1,0 +1,4 @@
+Dogecoininfobot
+===============
+
+A dogecoin infobot
